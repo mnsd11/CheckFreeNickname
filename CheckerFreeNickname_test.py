@@ -4,7 +4,7 @@ nickname=input()
 zanyato='<Response [200]>'
 nezanyato='<Response [404]>'
 
-massiv=[]
+massiv=['https://www.reddit.com/user/']
 
 '''
 massiv=['https://www.chess.com/member/',
@@ -18,7 +18,6 @@ massiv=['https://www.chess.com/member/',
 'https://www.deviantart.com/',
 'https://www.behance.net/',
 'https://www.twitch.tv/',
-'https://illustrators.ru/users/',
 'https://hackerone.com/']
 massiv.sort()
 '''
