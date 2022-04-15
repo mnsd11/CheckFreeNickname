@@ -47,5 +47,4 @@ false response code
 
 '''
 Your username must only contain letters & numbers. :
-DeviantArt
 '''
